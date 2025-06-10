@@ -1,0 +1,13 @@
+This is a ml model which predict 
+A person is diabetic or non-diabetic  
+step to make this model 
+-> Analyze the dataset
+-> do data-preprocessing 
+   strandardization 
+-> split the data into train , test data .
+-> Fitting the data into model 
+-> predicting The accuracy of Training and testing data 
+-> calculating The accuracy Score 
+
+Accuracy of train data 0.7866449511400652
+accuracy of test data 0.7727272727272727
